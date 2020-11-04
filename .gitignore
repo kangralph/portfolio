@@ -1,0 +1,6 @@
+*.csv
+*.cfg
+*.pyc
+nbastats_crawler/crawler/__pycache__/
+nbastats_crawler/crawler/spiders/__pycache__/
+nbastats_crawler/crawler/settings.py
