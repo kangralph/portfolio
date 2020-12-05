@@ -9,7 +9,11 @@
 - Link to kaggle profile: https://www.kaggle.com/elcaido
 - Coming Soon: Monte Carlo Simulation
 
-3. Coming Soon: Apache Airflow Sample DAGs & Custom Operators
+3. GCP AI Platform Deployment
+- Deployment scikit-learn model with custom code
+- Custom prediction routine 
+
+4. Coming Soon: Apache Airflow Sample DAGs & Custom Operators
 
 
 
